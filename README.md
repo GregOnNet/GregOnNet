@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
-**GregOnNet/GregOnNet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on
+  - [@ngrx-ducks/core](https://github.com/co-IT/ngrx-ducks)
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning
+  - [Qwik](https://github.com/BuilderIO/qwik)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💬 Ask me about
+  - [Angular](https://github.com/angular/angular)
+  - [NgRx](https://github.com/ngrx/platform)
+  - [Git](https://git-scm.com/)
+
+- 📫 Reach me at
+  - [Twitter](https://twitter.com/GregOnNet)
+  - [YouTube](https://www.youtube.com/@GregorWoiwode)
+  
