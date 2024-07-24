@@ -18,9 +18,9 @@
 |  ![My Skills](https://skillicons.dev/icons?i=angular,git,ts,dotnet)  |  ![My Skills](https://skillicons.dev/icons?i=sass,tailwind)  |  ![My Skills](https://skillicons.dev/icons?i=dotnet,cs,nodejs,nestjs)  |
 
 
-|               DevTools/IDE             |              DesignTools          |
-| -------------------------------------- | --------------------------------- |
-|  ![My Skills](https://skillicons.dev/icons?i=rider,webstorm,vscode)  |  ![My Skills](https://skillicons.dev/icons?i=figma)  |
+| DevOps |               DevTools/IDE             |              DesignTools          |
+| --- | -------------------------------------- | --------------------------------- |
+| ![My Skills](https://skillicons.dev/icons?i=docker,github,ansible)  |  ![My Skills](https://skillicons.dev/icons?i=rider,webstorm,vscode)  |  ![My Skills](https://skillicons.dev/icons?i=figma)  |
 
 <br> <br>
 
