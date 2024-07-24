@@ -5,11 +5,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gregonnet&repo=ecommerce-geekstore&theme=tokyonight)](https://github.com/gregonnet/ecommerce-geekstore)
  -->
 
-# Hi 👋, I’m Gregor Woiwode
-> aka [@GregOnNet](https://github.com/GregOnNet)
-
-
-## Software Engineer
+# Software Engineer
 
 * 🏡 Based in Germany
 
@@ -17,7 +13,7 @@
 
  
 
-## 💪🏻 Skills
+# 💪🏻 Skills
 <br>
 
 |             Top skills            |               Styling             |              Backend & API          |
@@ -31,20 +27,20 @@
 
 <br><br>
 
-## 🧠 Currently Learning
+# 🧠 Currently Learning
 
-|             Frontend              |
+|             Framework             |
 | --------------------------------- |
 |  ![My Skills](https://raw.githubusercontent.com/QwikDev/qwik/main/.github/assets/qwik-logo.svg)  |
 <br>
 
-## ⚡ Github stats
+# ⚡ Github stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gregonnet&layout=donut&theme=tokyonight)](https://github.com/gregonnet/github-readme-stats)
 ![Gregor's GitHub stats](https://github-readme-stats.vercel.app/api?username=gregonnet&show_icons=true&theme=tokyonight)
 <br><br>
 
-## 🔌 Connect with me
+# 🔌 Connect with me
 
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/gregor-woiwode-8a5b62164/)
 <br><br>
