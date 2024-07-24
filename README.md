@@ -11,41 +11,40 @@
 
 <br>
 
- 
-
 # 💪🏻 Skills
-<br>
 
 |             Top skills            |               Styling             |              Backend & API          |
 | --------------------------------- | --------------------------------- | ----------------------------------- |
 |  ![My Skills](https://skillicons.dev/icons?i=angular,git,ts,dotnet)  |  ![My Skills](https://skillicons.dev/icons?i=sass,tailwind)  |  ![My Skills](https://skillicons.dev/icons?i=dotnet,cs,nodejs,nestjs)  |
-<br>
+
 
 |               DevTools/IDE             |              DesignTools          |
 | -------------------------------------- | --------------------------------- |
 |  ![My Skills](https://skillicons.dev/icons?i=rider,webstorm,vscode)  |  ![My Skills](https://skillicons.dev/icons?i=figma)  |
 
-<br><br>
+<br> <br>
 
 # 🧠 Currently Learning
 
 |             Framework             |
 | --------------------------------- |
 |  ![My Skills](https://raw.githubusercontent.com/QwikDev/qwik/main/.github/assets/qwik-logo.svg)  |
-<br>
+
+<br> <br>
 
 # ⚡ Github stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gregonnet&layout=donut&theme=tokyonight)](https://github.com/gregonnet/github-readme-stats)
 ![Gregor's GitHub stats](https://github-readme-stats.vercel.app/api?username=gregonnet&show_icons=true&theme=tokyonight)
-<br><br>
+
+<br> <br>
 
 # 🔌 Connect with me
 
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/gregor-woiwode-8a5b62164/)
-<br><br>
+
 
 <!--  [![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,mongodb,graphql,tailwind,styledcomponents,jest,azure,git,html,css,figma)](https://skillicons.dev)
  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=gregonnet&border_radius=5)](https://git.io/streak-stats)
-<br><br>
+
  -->
