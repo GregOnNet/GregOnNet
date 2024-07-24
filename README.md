@@ -1,17 +1,55 @@
-### Hi there 👋
+<!-- 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gregonnet&repo=ecommerce-admin-dashboard&theme=tokyonight)](https://github.com/gregonnet/ecommerce-admin-dashboard)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gregonnet&repo=codery-website&theme=tokyonight)](https://github.com/gregonnet/codery-website)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gregonnet&repo=humorHub-api&theme=tokyonight)](https://github.com/gregonnet/humorHub-api)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gregonnet&repo=ecommerce-geekstore&theme=tokyonight)](https://github.com/gregonnet/ecommerce-geekstore)
+ -->
 
-- 🔭 I’m currently working on
-  - [@ngrx-ducks/core](https://github.com/co-IT/ngrx-ducks)
+# Hi 👋, I’m Gregor Woiwode
+> aka [@GregOnNet](https://github.com/GregOnNet)
 
-- 🌱 I’m currently learning
-  - [Qwik](https://github.com/BuilderIO/qwik)
 
-- 💬 Ask me about
-  - [Angular](https://github.com/angular/angular)
-  - [NgRx](https://github.com/ngrx/platform)
-  - [Git](https://git-scm.com/)
+## Software Engineer
 
-- 📫 Reach me at
-  - [Twitter](https://twitter.com/GregOnNet)
-  - [YouTube](https://www.youtube.com/@GregorWoiwode)
-  
+* 🏡 Based in Germany
+
+<br>
+
+ 
+
+## 💪🏻 Skills
+<br>
+
+|             Top skills            |               Styling             |              Backend & API          |
+| --------------------------------- | --------------------------------- | ----------------------------------- |
+|  ![My Skills](https://skillicons.dev/icons?i=angular,git,ts,dotnet)  |  ![My Skills](https://skillicons.dev/icons?i=sass,tailwind)  |  ![My Skills](https://skillicons.dev/icons?i=dotnet,cs,nodejs,nestjs)  |
+<br>
+
+|               DevTools/IDE             |              DesignTools          |
+| -------------------------------------- | --------------------------------- |
+|  ![My Skills](https://skillicons.dev/icons?i=rider,webstorm,vscode)  |  ![My Skills](https://skillicons.dev/icons?i=figma)  |
+
+<br><br>
+
+## 🧠 Currently Learning
+
+|             Frontend              |
+| --------------------------------- |
+|  ![My Skills](https://raw.githubusercontent.com/QwikDev/qwik/main/.github/assets/qwik-logo.svg)  |
+<br>
+
+## ⚡ Github stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gregonnet&layout=donut&theme=tokyonight)](https://github.com/gregonnet/github-readme-stats)
+![Gregor's GitHub stats](https://github-readme-stats.vercel.app/api?username=gregonnet&show_icons=true&theme=tokyonight)
+<br><br>
+
+## 🔌 Connect with me
+
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/gregor-woiwode-8a5b62164/)
+<br><br>
+
+<!--  [![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,mongodb,graphql,tailwind,styledcomponents,jest,azure,git,html,css,figma)](https://skillicons.dev)
+ [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=gregonnet&border_radius=5)](https://git.io/streak-stats)
+<br><br>
+ -->
